@@ -1,0 +1,12 @@
+{
+  "author": "KANIYO KANIYONIKA",
+  "dependencies": {    },
+  "description": "SetObject, GetObject, LoadAsJSON, etc...",
+  "displayName": "PlayerPrefsUtils",
+  "keywords": [ "unity", "unity3d" ],
+  "license": "MIT",
+  "name": "com.kaniyonika.player-prefs-utils",
+  "repository": "github:KANIYONIKA/PlayerPrefsUtils",
+  "unity": "2020.3",
+  "version": "1.0.0"
+}
